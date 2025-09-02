@@ -1,4 +1,4 @@
-# 🖥️ Project 1 – Windows Server Home Lab with Active Directory
+# 🖥️ Windows Server Home Lab with Active Directory
 
 ## Objective
 Build a secure Windows Server 2022 Home Lab with **Active Directory**, **DNS**, and **DHCP** for hands-on cybersecurity learning and enterprise environment simulation.
