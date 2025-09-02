@@ -34,7 +34,7 @@ Build a secure Windows Server 2022 Home Lab with **Active Directory**, **DNS**, 
 ---
 
 ## Network Diagram
-![AD Home Lab Diagram](network-diagram/ad-home-lab-diagram.png)
+![AD Home Lab Diagram](ad-home-lab-diagram.png)
 
 ---
 
